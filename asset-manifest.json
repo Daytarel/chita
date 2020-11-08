@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/chita/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/chita/static/js/main.12bd8338.chunk.js",
-    "main.js.map": "/chita/static/js/main.12bd8338.chunk.js.map",
+    "main.js": "/chita/static/js/main.a2434349.chunk.js",
+    "main.js.map": "/chita/static/js/main.a2434349.chunk.js.map",
     "runtime-main.js": "/chita/static/js/runtime-main.dec3587e.js",
     "runtime-main.js.map": "/chita/static/js/runtime-main.dec3587e.js.map",
-    "static/js/2.06f03111.chunk.js": "/chita/static/js/2.06f03111.chunk.js",
-    "static/js/2.06f03111.chunk.js.map": "/chita/static/js/2.06f03111.chunk.js.map",
+    "static/js/2.bd5cd2ad.chunk.js": "/chita/static/js/2.bd5cd2ad.chunk.js",
+    "static/js/2.bd5cd2ad.chunk.js.map": "/chita/static/js/2.bd5cd2ad.chunk.js.map",
     "static/js/3.dcc02b70.chunk.js": "/chita/static/js/3.dcc02b70.chunk.js",
     "static/js/3.dcc02b70.chunk.js.map": "/chita/static/js/3.dcc02b70.chunk.js.map",
     "index.html": "/chita/index.html",
     "static/css/main.ab7136cd.chunk.css.map": "/chita/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.06f03111.chunk.js.LICENSE.txt": "/chita/static/js/2.06f03111.chunk.js.LICENSE.txt",
+    "static/js/2.bd5cd2ad.chunk.js.LICENSE.txt": "/chita/static/js/2.bd5cd2ad.chunk.js.LICENSE.txt",
     "static/media/logo.103b5fa1.svg": "/chita/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.dec3587e.js",
-    "static/js/2.06f03111.chunk.js",
+    "static/js/2.bd5cd2ad.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.12bd8338.chunk.js"
+    "static/js/main.a2434349.chunk.js"
   ]
 }
